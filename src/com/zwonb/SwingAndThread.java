@@ -9,7 +9,7 @@ import java.net.URL;
  * Created by zyb on 2017/7/28.
  */
 public class SwingAndThread extends JFrame {
-    
+
     private JLabel jl = new JLabel();
     private static Thread thread;
     private int count = 0;
